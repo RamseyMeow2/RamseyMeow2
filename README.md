@@ -38,4 +38,4 @@ I'm a proud cat owner! 🐾
 
 Feel free to reach out if you're interested in collaborating on projects, discussing tech and AI, or just connecting! 
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nyang-lin-phyo-698245241/)  
