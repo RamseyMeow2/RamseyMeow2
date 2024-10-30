@@ -1,16 +1,41 @@
-### Hi there 👋
+# Hi, I'm Nyang Lin Phyo 👋
 
-<!--
-**RamseyMeow2/RamseyMeow2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I'm a senior at the University of Michigan, Ann Arbor, studying **Computer Science**. Passionate about using technology to solve real-world problems, I’m especially interested in **machine learning**, **AI-driven systems**, and **accessible technology solutions**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Academic Background
+
+* **University of Michigan, Ann Arbor**
+  * **Senior**, Computer Science BSE
+  * **grader for EECS 370** with Professor Brehob
+
+---
+
+🎯 Skills
+Relevant Coursework:
+Computer Vision, Intro to Operating Systems, Database Management Systems, Intro to Computer Security, Foundations of Computer Science, Web Systems, Web Design, Intro to Computer Organization, Data Structures and Algorithms, Discrete Mathematics, Linear Algebra
+
+Programming Skills:
+C++, C, Java, Python, SQL, HTML, CSS, JavaScript, R, Matlab
+
+Frameworks & Tools:
+Flask, React, Node.js, Webpack, Docker
+
+---
+
+## 🎓 Future Plans
+
+I'm applying for **master's programs in computer science**, focusing on universities like **University of Michigan, San Jose State University, Purdue, University of Toronto,** and **University of British Columbia**. My goal is to further explore AI-driven accessibility solutions and contribute to tech innovation in areas of assistive technology.
+
+---
+
+## 🐱 Fun Fact
+
+I'm a proud cat owner! 🐾
+
+---
+
+Feel free to reach out if you're interested in collaborating on projects, discussing tech and AI, or just connecting! 
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
